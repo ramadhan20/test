@@ -1,0 +1,22 @@
+#header {
+    text-align: center;
+    background: #00ffe1;
+    color: #fff;
+    padding: 15px 0;
+}
+
+h1 {
+    margin: 0;
+    font-family: 'Libre Baskerville', serif;
+}
+
+#content {
+    color: #96c695;
+    text-align: center;
+    background: black;
+    padding: 1px 0;
+}
+#tex1 {
+    font-family: 'Libre Baskerville', serif;
+font-family: 'Dancing Script', cursive;
+}
